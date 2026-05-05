@@ -1,0 +1,124 @@
+Juan Jose
+Gomez Martinuzzo
+Guarapari, Espírito Santo, Brazil
++55 27 9970-22445
+Jjgomez2k@gmail.com
+Juan José Gómez Martinuzzo | LinkedIn
+Proactive and determined Full Stack Developer with more than 5 years of experience in building scalable web
+applications. I am an expert in .NET, Python, Java, Node.js, React, AWS and Testing. I look forward to leveraging
+my passion for learning and collaborative spirit to contribute to your team's success.
+Languages: English – Fluent, Spanish – Native, Portuguese – Fluent, Japanese – Low Intermediate.
+Skills
+Programming Languages:
+Expert: JavaScript/TypeScript (Node.js, React,
+Express), Python, Java, .NET
+DevOps Tools:
+Proficient: Azure DevOps, Bitbucket, Github,
+Docker, Kubernetes, Jenkins
+Frontend:
+Expert: React, React Native, Angular
+Expo, Reanimated API, Next.js, Redux, RTK
+Cloud Platforms:
+Expert: AWS (EC2, S3, Lambda, SNS)
+Proficiency: GCP (Cloud Functions, Cloud
+Storage), Firebase
+Databases:
+Expert: MySQL, PostgreSQL
+Proficiency: MongoDB, Redis
+Experience
+September 2025 – March 2026 | Software Engineer | K2 Partnering Solutions (client ExxonMobil), Brazil
+• Project: Contributed to the development of advanced data solutions for ExxonMobil, focusing on
+Robust and Scalable ETL Processes
+o Data Architecture & Strategic Insights Delivery: Led initiatives in data architecture, focusing on
+the delivery of strategic business insights and supporting critical decision-making.
+o ETL Processes: Developed robust and scalable ETL pipelines, ensuring automation and
+seamless integration between multiple corporate data sources and destinations.
+o Tech Stack: Utilized .NET 9 (C#), Angular, Azure Functions, Service Bus, and SQL Server, as well
+as other cutting-edge technologies to guarantee high performance and reliability.
+o Integration & Automation: Designed automated data pipelines to promote efficient
+integration across diverse systems.
+o SOLID Principles: Applied SOLID principles to ensure a sustainable and robust codebase.
+o Collaboration: Worked with multidisciplinary teams, contributing to the modernization of the
+data architecture and the delivery of actionable business insights.
+October 2024 – August 2025 | Senior Backend Engineer | GFT Technologies, Brazil
+• Project: Developed a comprehensive loan generation system from the ground up for Crefisa a AAA
+credit institution in Brazil, specifically targeting retired individuals.
+o Tech Stack: Utilized .NET 8, Jenkins, Oracle, OpenShift, and REST/SOAP APIs to design, develop,
+and maintain the system.
+o SOLID Principles: Applied SO LID principles to ensure a robust and maintainable codebase.
+o Automation: Implemented continuous integration and continuous deployment (CI/CD)
+pipelines using Jenkins to streamline the development process.
+o Database Management: Leveraged Oracle for efficient data storage and retrieval.
+2
+o Containerization: Utilized OpenShift for container orchestration and management.
+o API Development: Developed REST and SOAP APIs to facilitate seamless communication
+between different system components.
+o Collaboration: Collaborated closely with stakeholders to ensure the system met all business
+requirements and provided user-friendly experience for retired individuals seeking loans.
+• Project: Spearheaded the development of high-performance, mission-critical financial processes for
+Itau a leading AAA bank in Latin America.
+o Tech Stack: Utilized .NET C#, Python, Terraform, and Pipe Bridge to design, develop, and
+maintain scalable backend services on the AWS cloud platform.
+o Event-Driven Design: Implemented event-driven design principles to enhance system
+responsiveness and scalability.
+o Collaboration: Worked closely with cross-functional teams to deliver innovative solutions that
+not only met business requirements but also exceeded customer expectations.
+o Best Practices: Implemented industry’s best practices for software development, including unit
+testing, code reviews, and continuous integration/continuous deployment (CI/CD).
+o AWS Services: Leveraged a wide range of AWS services (e.g., EC2, S3, RDS, Lambda) to build
+robust and scalable infrastructure.
+o Efficiency: Contributed to the development of reusable components and frameworks,
+significantly improving development efficiency and maintainability.
+August 2023 – September 2024 | Senior Full Stack Developer | SYSMAP Solutions, Brazil
+• Project: Led the development of a high-performance admin platform for large-scale internet and TV
+operations.
+o Frontend: Utilized React with a focus on state management using Redux for efficient
+application state management across complex data flows.
+o Performance Optimization: Leveraged animation libraries to create a smooth and responsive
+user experience for real-time data visualization.
+o Backend: Employed Java 8 and 11 with Spring Boot, JPA, Hibernate, and Python for robust
+server-side operations managing massive data volumes and dockerized services orchestrated
+by Kubernetes.
+o Architecture & Design Patterns: Implemented Domain-Driven Design (DDD) principles to
+structure the domain model effectively and utilized Test-Driven Development (TDD) to ensure
+code quality and maintainability.
+o Messaging System: Integrated RabbitMQ and Redis for high-performance, dependable data
+transfer between microservices.
+o Collaboration: Partnered with DevOps and network engineers to ensure seamless platform
+integration with existing infrastructure.
+August 2021 – July 2023 | Senior Full Stack Developer | ACT Digital, Brazil
+• Platform Ownership: Owned and enhanced the Funds Revenue Management platform at BTG Pactual.
+o Full-Stack Development: Used SOLID Principles and design patterns.
+3
+o Frontend: Built a user-friendly interface using React, Angular, and TypeScript, and leveraged
+Redux for predictable and efficient application state management.
+o Backend: Utilized .NET, Java, and Python for robust server-side operations managing various
+functionalities and dockerized services orchestrated by Kubernetes.
+o Database: Employed SQL Server for efficient data storage and retrieval with performance
+tuning.
+o Serverless Architecture: Migrated functionalities to AWS serverless architectures for improved
+scalability and cost efficiency.
+o Quantified Improvements: Increased transaction processing speed by 30% through optimized
+database queries and streamlined revenue tracking and reporting for portfolio managers.
+o Business Impact: Enabled data-driven decision-making and reduced manual workloads by 20%.
+February 2021 – July 2021 | Lead Software Engineer | Construix, Framingham, MA, USA
+• Project Leadership: Spearheaded the development of a new project management feature, adhering to
+Agile methodologies and exceeding delivery deadlines by 20%, using GraphQL, Python, Node.js, React,
+React Native, and Expo, with dockerized services orchestrated by Kubernetes.
+o Mentorship: Mentored junior developers and fostered a collaborative team environment.
+o Technical Impact: Implemented continuous integration and testing with Cypress, reducing bug
+regressions by 40% and improving code quality.
+o Challenge Solved: Optimized core authentication system performance with PostgreSQL stored
+procedures, achieving a 30% decrease in server response times.
+o Development Environment: Used MacOS for development on an everyday basis for web
+applications and prototyping for a mobile app.
+February 2019 – February 2021 | Full Stack Developer | Ótima Gestão, Guarapari, ES, Brazil
+• Leadership & Maintenance: Led a team of developers, implemented code reviews, improved
+documentation, and automated testing, reducing application crashes by 50% and building a POS
+system for retail and restaurants, plus innovation with GraphQL for mobile applications.
+o Tech-Driven Innovation: Built a responsive customer portal with Angular, enhancing user
+experience and writing documentation, reducing support tickets by 40%.
+o Backend: Utilized .NET Framework 4.5, .NET Core, C#, SQL Server, Node.js, React, React Native,
+JavaScript/TypeScript, Redux, HTML/CSS, REST API, Azure DevOps.
+Education
+• B.Sc. Computer Science / Faculdade Pitágoras, Brazil
