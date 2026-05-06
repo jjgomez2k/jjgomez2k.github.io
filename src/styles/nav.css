@@ -1,0 +1,96 @@
+/* Navigation Styles */
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--overlay);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.3s ease;
+}
+
+nav .nav-brand {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: var(--text);
+}
+
+nav .nav-links {
+  display: flex;
+  gap: 2rem;
+}
+
+nav .nav-links a {
+  color: var(--text);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+nav .nav-links a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.nav-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text);
+  padding: 0.5rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s;
+}
+
+.theme-toggle:hover {
+  background: var(--bg-alt);
+}
+
+.lang-switcher {
+  display: flex;
+  gap: 0.5rem;
+  background: var(--bg-alt);
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+}
+
+.lang-btn {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+
+.lang-btn.active {
+  background: var(--accent);
+  color: white;
+}
+
+.lang-btn:hover:not(.active) {
+  color: var(--accent);
+}
+
+svg {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
