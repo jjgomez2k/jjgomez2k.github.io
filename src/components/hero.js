@@ -7,9 +7,7 @@ export const heroComponent = () => {
     <section id="hero" aria-label="Introduction">
       <div class="hero-content">
         <p class="hero-label" data-i18n="hero.label"></p>
-        <h1 class="hero-name">
-          <span class="accent-letter">J</span>uan Jose Gomez
-        </h1>
+        <h1 class="hero-name"><span class="accent-letter">J</span>uan José Gómez Martinuzzo</h1>
         <div class="accent-line"></div>
         <p class="hero-desc" data-i18n="hero.desc"></p>
         <div class="hero-actions">

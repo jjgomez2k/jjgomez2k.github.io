@@ -23,10 +23,10 @@ describe('PortfolioApp Language Switching', () => {
 
   it('translates project titles for all locales', () => {
     const locales = {
-      'en': ['E-Commerce Platform', 'Data Analytics Engine', 'Healthcare Management System', 'DevOps Automation Suite'],
-      'es': ['Plataforma de E-Commerce', 'Motor de Análisis de Datos', 'Sistema de Gestión de Salud', 'Suite de Automatización DevOps'],
-      'pt': ['Plataforma de E-Commerce', 'Motor de Análise de Dados', 'Sistema de Gestão de Saúde', 'Suite de Automação DevOps'],
-      'jp': ['Eコマースプラットフォーム', 'データ分析エンジン', '健康管理システム', 'DevOps自動化スイート']
+      'en': ['ExxonMobil Data Solutions', 'Crefisa Loan Generation System', 'ITAu Payment System', 'SYSMAP Admin Platform'],
+      'es': ['Soluciones de Datos ExxonMobil', 'Sistema de Generación de Préstamos Crefisa', 'Sistema de Pagos ITAu', 'Plataforma de Administración SYSMAP'],
+      'pt': ['Soluções de Dados ExxonMobil', 'Sistema de Geração de Empréstimos Crefisa', 'Sistema de Pagamento Itaú', 'Plataforma de Administração SYSMAP'],
+      'jp': ['ExxonMobilデータソリューション', 'Crefisaローン生成システム', 'Itaú決済システム', 'SYSMAP管理プラットフォーム']
     };
 
     Object.entries(locales).forEach(([locale, expectedTitles]) => {

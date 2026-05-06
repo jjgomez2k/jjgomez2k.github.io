@@ -38,8 +38,8 @@ describe('PortfolioApp class', () => {
     document.getElementById = vi.fn().mockReturnValue(projectsContainer);
 
     app.renderProjects(projectData);
-    expect(projectsContainer.innerHTML).toContain('E-Commerce Platform');
-    expect(projectsContainer.innerHTML).toContain('Data Analytics Engine');
+    expect(projectsContainer.innerHTML).toContain('ExxonMobil Data Solutions');
+    expect(projectsContainer.innerHTML).toContain('Crefisa Loan Generation System');
   });
 
   it('applies language to document', () => {

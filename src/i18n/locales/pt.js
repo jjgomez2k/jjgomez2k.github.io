@@ -1,5 +1,5 @@
 export default {
-  brand: 'Juan Jose Gomez',
+  brand: 'Juan José Gómez Martinuzzo',
   nav: {
     about: 'Sobre',
     experience: 'Experiência',
@@ -27,34 +27,48 @@ export default {
   exp: {
     title: 'Experiência',
     subtitle: 'Minha trajetória profissional e marcos de carreira',
-    j1_date: '2022 — Presente',
-    j1_role: 'Desenvolvedor Full Stack Senior',
-    j1_company: 'TechCorp Enterprise',
-    j1_desc_li_1: 'Liderar o desenvolvimento de arquitetura de microsserviços atendendo 10M+ requisições/dia',
-    j1_desc_li_2: 'Implementar pipelines CI/CD reduzindo o tempo de implantação em 60%',
-    j1_desc_li_3: 'Arquitetar pipeline de processamento de dados em tempo real usando AWS Lambda e Kinesis',
-    j1_desc_li_4: 'Mentoriar 5 desenvolvedores juniores com code reviews regulares e sessões de par',
-    j2_date: '2020 — 2022',
-    j2_role: 'Desenvolvedor Full Stack',
-    j2_company: 'InnovateSoft Inc.',
-    j2_desc_li_1: 'Construir APIs RESTful e SPA com Node.js, Express e React',
-    j2_desc_li_2: 'Otimizar consultas SQL melhorando o desempenho do banco de dados em 40%',
-    j2_desc_li_3: 'Implantar aplicações escaláveis na AWS ECS e CloudFront',
-    j2_desc_li_4: 'Reduzir tempo de carregamento em 50% através de code splitting',
-    j3_date: '2018 — 2020',
-    j3_role: 'Desenvolvedor de Software',
-    j3_company: 'CodeForge Labs',
-    j3_desc_li_1: 'Desenvolver aplicações web empresariais usando .NET Core e Angular',
-    j3_desc_li_2: 'Implementar suite de testes automatizados com 90%+ de cobertura',
-    j3_desc_li_3: 'Construir componentes UI responsivos usados em 3 linhas de produto',
-    j3_desc_li_4: 'Criar biblioteca de ferramentas internas adotada por todas as equipes',
-    j4_date: '2016 — 2018',
-    j4_role: 'Desenvolvedor Júnior',
-    j4_company: 'StartUp Ventures',
-    j4_desc_li_1: 'Desenvolver e manter aplicações web voltadas ao cliente',
-    j4_desc_li_2: 'Integrar sistemas de pagamento (Stripe, PayPal)',
-    j4_desc_li_3: 'Participar de sprints ágeis e stand-ups diários',
-    j4_desc_li_4: 'Escrever documentação técnica completa para integrações de API'
+    j1_date: 'Set 2025 — Mar 2026',
+    j1_role: 'Engenheiro de Software',
+    j1_company: 'K2 Partnering Solutions (cliente ExxonMobil)',
+    j1_desc_li_1: 'Lidei com iniciativas de arquitetura de dados entregando insights estratégicos de negócios e apoiando decisões críticas',
+    j1_desc_li_2: 'Desenvolvi pipelines ETL robustos e escaláveis garantindo integração perfeita entre fontes e destinos de dados corporativos',
+    j1_desc_li_3: 'Implementei pipelines de dados automatizados usando .NET 9 (C#), Angular, Azure Functions, Service Bus e SQL Server',
+    j1_desc_li_4: 'Apliquei princípios SOLID e colaborei com equipes multidicionárias para modernizar a arquitetura de dados',
+    j2_date: 'Out 2024 — Ago 2025',
+    j2_role: 'Engenheiro Backend Sênior',
+    j2_company: 'GFT Technologies',
+    j2_desc_li_1: 'Desenvolvi um sistema abrangente de geração de empréstimos do zero para a Crefisa, uma instituição de crédito AAA',
+    j2_desc_li_2: 'Construí APIs REST/SOAP e implementei pipelines CI/CD usando Jenkins e .NET 8 no OpenShift',
+    j2_desc_li_3: 'Utilizei Oracle para armazenamento de dados e OpenShift para orquestração de contêineres em aplicações fintech',
+    j2_desc_li_4: 'Entreguei serviços backend de alta performance para o banco Itaú usando .NET, Python, Terraform e AWS em arquitetura orientada a eventos',
+    j3_date: 'Ago 2023 — Set 2024',
+    j3_role: 'Desenvolvedor Full Stack Sênior',
+    j3_company: 'SYSMAP Solutions',
+    j3_desc_li_1: 'Liderarei o desenvolvimento de plataforma de administração de alta performance para operações de internet e TV em grande escala usando React com Redux',
+    j3_desc_li_2: 'Construí serviços backend com Java 8/11, Spring Boot, JPA e Hibernate gerenciando volumes massivos de dados',
+    j3_desc_li_3: 'Integrei RabbitMQ e Redis para transferência de dados de microsserviços de alta performance com orquestração no Kubernetes',
+    j3_desc_li_4: 'Implementei princípios DDD e metodologia TDD para garantir qualidade de código, manutenibilidade e estrutura do modelo de domínio',
+    j4_date: 'Ago 2021 — Jul 2023',
+    j4_role: 'Desenvolvedor Full Stack Sênior',
+    j4_company: 'ACT Digital',
+    j4_desc_li_1: 'Fui proprietário e aprimorei a plataforma de Gestão de Receita de Fundos do BTG Pactual usando React, Angular e TypeScript',
+    j4_desc_li_2: 'Aumentei a velocidade de processamento de transações em 30% e reduzi cargas de trabalho manual em 20% com tuning de SQL Server',
+    j4_desc_li_3: ' Migrei serviços para infraestrutura serverless da AWS e orquestrei serviços em contêineres com Kubernetes',
+    j4_desc_li_4: 'Apliquei princípios SOLID e patterns de design em serviços backend com .NET, Java e Python',
+    j5_date: 'Fev 2021 — Jul 2021',
+    j5_role: 'Engenheiro de Software Líder',
+    j5_company: 'Construix (Framingham, MA, EUA)',
+    j5_desc_li_1: 'Liderei o desenvolvimento de recursos de gerenciamento de projetos usando GraphQL, Python, Node.js, React, React Native e Expo',
+    j5_desc_li_2: 'Otimizei a performance do sistema de autenticação PostgreSQL, alcançando redução de 30% nos tempos de resposta do servidor',
+    j5_desc_li_3: 'Implementei CI/CD e testes com Cypress, reduzindo regressões de bugs em 40% e melhorando a qualidade do código',
+    j5_desc_li_4: 'Mentoriei desenvolvedores juniores e orquestrei microsserviços no Kubernetes com metodologias ágeis',
+    j6_date: 'Fev 2019 — Fev 2021',
+    j6_role: 'Desenvolvedor Full Stack',
+    j6_company: 'Ótima Gestão (Guarapari, ES, Brasil)',
+    j6_desc_li_1: 'Liderei uma equipe de desenvolvimento e construí um sistema POS para varejo e restaurantes com inovação em app móvel GraphQL',
+    j6_desc_li_2: 'Construí portal de cliente responsivo com Angular e backend em .NET Framework/Core com SQL Server e Node.js',
+    j6_desc_li_3: 'Reduzi falhas do sistema em 50% com code reviews e testes automatizados, e chamados de suporte em 40%',
+    j6_desc_li_4: 'Gerenciei o ciclo completo de deploy com Azure DevOps usando APIs REST, Redux e TypeScript em toda a stack',
   },
   skills: {
     title: 'Habilidades Técnicas',
@@ -69,7 +83,7 @@ export default {
     cat2_skill2_name: 'Angular',
     cat2_skill3_name: 'Vue.js',
     cat2_skill4_name: 'HTML/CSS/JS',
-    cat3_name: 'Cloud & DevOps',
+    cat3_name: 'Cloud e DevOps',
     cat3_skill1_name: 'AWS (Lambda, ECS, S3)',
     cat3_skill2_name: 'Docker',
     cat3_skill3_name: 'Kubernetes',
@@ -80,38 +94,52 @@ export default {
     subtitle: 'Alguns dos meus trabalhos recentes e contribuições'
   },
   proj1: {
-    title: 'Plataforma de E-Commerce',
-    desc: 'Solução de e-commerce escalável com inventário em tempo real, processamento de pagamentos e painel de análise.',
-    tag1: '.NET',
-    tag2: 'React',
-    tag3: 'AWS'
+    title: 'Soluções de Dados ExxonMobil',
+    desc: 'Sistema robusto e escalável de processamento de dados ETL para insights estratégicos de negócios e integração corporativa.',
+    tag1: '.NET 9',
+    tag2: 'Angular',
+    tag3: 'Azure Functions'
   },
   proj2: {
-    title: 'Motor de Análise de Dados',
-    desc: 'Motor de processamento de dados em tempo real manipulando 1M+ eventos/dia com Apache Kafka.',
-    tag1: 'Python',
-    tag2: 'Kafka',
-    tag3: 'Spark'
+    title: 'Sistema de Geração de Empréstimos Crefisa',
+    desc: 'Sistema abrangente de solicitações de empréstimos do zero para uma instituição de crédito AAA voltada a aposentados.',
+    tag1: '.NET 8',
+    tag2: 'Oracle',
+    tag3: 'OpenShift'
   },
   proj3: {
-    title: 'Sistema de Gestão de Saúde',
-    desc: 'Plataforma de gestão compatível com HIPAA para registros de pacientes e agendamento de consultas.',
-    tag1: 'Java',
-    tag2: 'Spring Boot',
-    tag3: 'PostgreSQL'
+    title: 'Sistema de Pagamento Itaú',
+    desc: 'Backend de processamento financeiro de missão crítica de alta performance com arquitetura orientada a eventos.',
+    tag1: 'Python',
+    tag2: 'Terraform',
+    tag3: 'AWS'
   },
   proj4: {
-    title: 'Suite de Automação DevOps',
-    desc: 'Ferramentas automatizadas de implantação e monitoramento para arquitetura de microsserviços.',
-    tag1: 'Docker',
-    tag2: 'Kubernetes',
-    tag3: 'Terraform'
+    title: 'Plataforma de Administração SYSMAP',
+    desc: 'Plataforma de administração de alta performance para operações de internet e TV em grande escala com gerenciamento de estado Redux.',
+    tag1: 'Java',
+    tag2: 'Spring Boot',
+    tag3: 'RabbitMQ'
+  },
+  proj5: {
+    title: 'Gestão de Receita de Fundos BTG Pactual',
+    desc: 'Plataforma full stack para acompanhamento e relatórios de receita de fundos com processamento de transações otimizado.',
+    tag1: 'React',
+    tag2: '.NET',
+    tag3: 'AWS Serverless'
+  },
+  proj6: {
+    title: 'Sistema POS Ótima Gestão',
+    desc: 'Sistema POS para varejo e restaurantes com portal de cliente responsivo e app móvel GraphQL.',
+    tag1: '.NET',
+    tag2: 'Angular',
+    tag3: 'SQL Server'
   },
   contact: {
     title: 'Entre em Contato',
     subtitle: 'Estou sempre aberto a discutir novas oportunidades e colaborações'
   },
   footer: {
-    text: '© 2024 Juan Jose Gomez Martinuzzo. Todos os direitos reservados.'
+    text: '© 2026 Juan José Gómez Martinuzzo. Todos os direitos reservados.'
   }
 };

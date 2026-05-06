@@ -6,7 +6,9 @@ describe('Project Cards Rendering Integration', () => {
       { titleKey: 'proj1.title', tags: ['proj1.tag1', 'proj1.tag2', 'proj1.tag3'], github: '#', live: '#', icon: '', descKey: 'proj1.desc' },
       { titleKey: 'proj2.title', tags: ['proj2.tag1', 'proj2.tag2', 'proj2.tag3'], github: '#', live: '#', icon: '', descKey: 'proj2.desc' },
       { titleKey: 'proj3.title', tags: ['proj3.tag1', 'proj3.tag2', 'proj3.tag3'], github: '#', live: '#', icon: '', descKey: 'proj3.desc' },
-      { titleKey: 'proj4.title', tags: ['proj4.tag1', 'proj4.tag2', 'proj4.tag3'], github: '#', live: '#', icon: '', descKey: 'proj4.desc' }
+      { titleKey: 'proj4.title', tags: ['proj4.tag1', 'proj4.tag2', 'proj4.tag3'], github: '#', live: '#', icon: '', descKey: 'proj4.desc' },
+      { titleKey: 'proj5.title', tags: ['proj5.tag1', 'proj5.tag2', 'proj5.tag3'], github: '#', live: '#', icon: '', descKey: 'proj5.desc' },
+      { titleKey: 'proj6.title', tags: ['proj6.tag1', 'proj6.tag2', 'proj6.tag3'], github: '#', live: '#', icon: '', descKey: 'proj6.desc' }
     ];
 
     projectData.forEach(project => {

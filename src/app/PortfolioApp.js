@@ -165,7 +165,9 @@ export class PortfolioApp {
       { date: 'j1_date', role: 'j1_role', company: 'j1_company', li: ['j1_desc_li_1', 'j1_desc_li_2', 'j1_desc_li_3', 'j1_desc_li_4'] },
       { date: 'j2_date', role: 'j2_role', company: 'j2_company', li: ['j2_desc_li_1', 'j2_desc_li_2', 'j2_desc_li_3', 'j2_desc_li_4'] },
       { date: 'j3_date', role: 'j3_role', company: 'j3_company', li: ['j3_desc_li_1', 'j3_desc_li_2', 'j3_desc_li_3', 'j3_desc_li_4'] },
-      { date: 'j4_date', role: 'j4_role', company: 'j4_company', li: ['j4_desc_li_1', 'j4_desc_li_2', 'j4_desc_li_3', 'j4_desc_li_4'] }
+      { date: 'j4_date', role: 'j4_role', company: 'j4_company', li: ['j4_desc_li_1', 'j4_desc_li_2', 'j4_desc_li_3', 'j4_desc_li_4'] },
+      { date: 'j5_date', role: 'j5_role', company: 'j5_company', li: ['j5_desc_li_1', 'j5_desc_li_2', 'j5_desc_li_3', 'j5_desc_li_4'] },
+      { date: 'j6_date', role: 'j6_role', company: 'j6_company', li: ['j6_desc_li_1', 'j6_desc_li_2', 'j6_desc_li_3', 'j6_desc_li_4'] }
     ];
 
     return `
@@ -237,7 +239,7 @@ export class PortfolioApp {
     const html = `
       <header>
         <nav role="navigation" aria-label="${t('brand')}">
-          <div class="nav-brand"><span>Juan Jose Gomez</span></div>
+          <div class="nav-brand"><span>Juan José Gómez Martinuzzo</span></div>
           <ul class="nav-links">
             <li><a href="#about">${nav.about}</a></li>
             <li><a href="#experience">${nav.experience}</a></li>
@@ -262,7 +264,7 @@ export class PortfolioApp {
         <section id="hero" aria-label="Introduction">
           <div class="hero-content">
             <p class="hero-label">${hero.label}</p>
-            <h1 class="hero-name"><span class="accent-letter">J</span>uan Jose Gomez</h1>
+            <h1 class="hero-name"><span class="accent-letter">J</span>uan José Gómez Martinuzzo</h1>
             <div class="accent-line"></div>
             <p class="hero-desc">${hero.desc}</p>
             <div class="hero-actions">
@@ -314,26 +316,26 @@ export class PortfolioApp {
           <span class="section-label">${contact.title}</span>
           <h2 class="section-title">${contact.subtitle}</h2>
           <div class="contact-grid">
-            <a href="mailto:contact@jjgomez.dev" class="contact-card" aria-label="Email">
+            <a href="mailto:jjgomez2k@gmail.com" class="contact-card" aria-label="Email">
               <div class="contact-icon">
                 <svg viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
               </div>
               <h3>Email</h3>
-              <p>contact@jjgomez.dev</p>
+              <p>jjgomez2k@gmail.com</p>
             </a>
-            <a href="https://linkedin.com/in/juanjosegomezmartinuzzo" target="_blank" rel="noopener noreferrer" class="contact-card" aria-label="LinkedIn">
+            <a href="https://linkedin.com/in/juan-jose-gomez-martinuzzo" target="_blank" rel="noopener noreferrer" class="contact-card" aria-label="LinkedIn">
               <div class="contact-icon">
                 <svg viewBox="0 0 24 24"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
               </div>
               <h3>LinkedIn</h3>
-              <p>linkedin.com/in/juanjosegomezmartinuzzo</p>
+              <p>linkedin.com/in/juan-jose-gomez-martinuzzo</p>
             </a>
-            <a href="https://github.com/juangomezmartinuzzo" target="_blank" rel="noopener noreferrer" class="contact-card" aria-label="GitHub">
+            <a href="https://github.com/jjgomez2k" target="_blank" rel="noopener noreferrer" class="contact-card" aria-label="GitHub">
               <div class="contact-icon">
                 <svg viewBox="0 0 24 24"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
               </div>
               <h3>GitHub</h3>
-              <p>@juangomezmartinuzzo</p>
+              <p>@jjgomez2k</p>
             </a>
           </div>
         </section>
