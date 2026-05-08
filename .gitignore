@@ -4,8 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-TODO.md
-resume.txt
 
 # testing
 /coverage
@@ -20,6 +18,9 @@ resume.txt
 # misc
 .DS_Store
 *.pem
+.opencode_state.json
+CNAME
+resume.txt
 
 # debug
 npm-debug.log*
